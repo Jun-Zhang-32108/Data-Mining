@@ -1,7 +1,7 @@
 
 # Data Mining Project
 
-**Attention! To see the equations in this file without flaws, we recommend a plugin for chrome browser called MathJax Plugin for Github.** 
+**Attention! To see the equations in this file with chrome browser without flaws, we recommend a plugin for chrome browser called MathJax Plugin for Github.** 
 
 Author: Jun Zhang \<jun.1.zhang@aalto.fi>, Zhiheng Qian \<zhiheng.qian@aalto.fi>
 
